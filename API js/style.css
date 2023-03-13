@@ -1,0 +1,36 @@
+body{
+    background-color: #f5fcff;
+}
+
+.results{
+    display: flex;
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input{
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    font-size: 16px;
+}
+.tableMain{
+    padding: 50px 200px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 0 15px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+p{
+    margin-right: 10px;
+}
